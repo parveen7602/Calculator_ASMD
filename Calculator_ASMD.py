@@ -20,7 +20,7 @@ def calculate():
     continue_flag=True
     while continue_flag:
         operation_symbol = input("Pick an operation: ")
-        number2 = float(input("Enter second number: "))
+        number2 = float(input("Enter next number: "))
         calculator_function=operations_dict[operation_symbol]
         output=calculator_function(number1, number2)
         print(f"{number1} {operation_symbol} {number2}={output}")
@@ -34,4 +34,5 @@ def calculate():
         else:
            continue_flag=False
            print("Thank you for using this calculator! Have a nice day! Bye!..")
+
 calculate()
