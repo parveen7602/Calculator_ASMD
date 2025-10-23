@@ -1,0 +1,26 @@
+## This is the example output,,,how it comes after execution...
+
+Enter first number: 9
++
+_
+*
+/
+pick an operation: +
+enter next number:10
+9.0 + 10.0=19.0
+Enter 'y' to continue calculation with output or 'n' to start a new calculation or 'x' to exit: y
+Pick an operation: *
+Enter next number: 19
+19.0 * 19.0=361.0
+Enter 'y' to continue calculation with output or 'n' to start a new calculation or 'x' to exit: n
+Enter first number: 7
++
+-
+*
+/
+Pick an operation: /
+Enter next number: 30
+7.0 / 30.0=0.23333333333333334
+Enter 'y' to continue calculation with output or 'n' to start a new calculation or 'x' to exit: x
+Thank you for using this calculator! Have a nice day! Bye!..
+
